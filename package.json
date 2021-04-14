@@ -19,7 +19,7 @@
   },
   "dependencies": {
     "cheerio": "^0.20.0",
-    "chrono-node": "^1.2.3",
+    "chrono-node": "^2.2.4",
     "is-isodate": "0.0.1",
     "is-url": "^1.2.1",
     "popsicle": "^6.2.0",
