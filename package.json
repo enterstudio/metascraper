@@ -22,7 +22,7 @@
     "chrono-node": "^1.2.3",
     "is-isodate": "0.0.1",
     "is-url": "^1.2.1",
-    "popsicle": "^6.2.0",
+    "popsicle": "^8.2.0",
     "to-title-case": "^1.0.0"
   },
   "devDependencies": {
